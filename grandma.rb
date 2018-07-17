@@ -18,7 +18,7 @@ elsif speak != speak.downcase()
   return "HUH?! SPEAK UP, SONNY!."
 elsif speak == speak.uppercasse()
   return "NO, NOT SINCE 1938!"
-else 
+else
     return "HUH?! SPEAK UP, SONNY!"
 end
 end
