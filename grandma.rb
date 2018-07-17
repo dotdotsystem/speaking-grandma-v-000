@@ -4,7 +4,7 @@
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
 
-# If you shout, she can hear you (or at least she thinks so) 
+# If you shout, she can hear you (or at least she thinks so)
 # and yells back
 
 # NO, NOT SINCE 1938!
@@ -18,6 +18,6 @@ elsif speak != speak.uppercase
   return "HUH?! SPEAK UP, SONNY!."
 elsif speak == "I LOVE YOU GRANDMA!"
   return "I LOVE YOU TOO PUMPKIN!"
-else 
+else
 end
-end 
+
