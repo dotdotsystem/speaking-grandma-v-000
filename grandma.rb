@@ -11,3 +11,13 @@
 
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
+speak_to_grandma(speak)
+if speak == speak.uppercase
+  return "NO, NOT SINCE 1938!."
+elsif speak != speak.uppercase
+  return "HUH?! SPEAK UP, SONNY!."
+elsif speak == "I LOVE YOU GRANDMA!"
+  return "I LOVE YOU TOO PUMPKIN!"
+else 
+end
+end 
